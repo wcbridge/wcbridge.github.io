@@ -118,6 +118,10 @@ a {
 #quiz {
     background-image: url("../images/holyGrail.JPG");
 }
+#trains {
+    background-image: url("../images/imaginarytrains.JPG");
+
+}
 
 .linkbox {
     position: relative;
