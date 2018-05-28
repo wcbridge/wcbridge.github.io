@@ -124,6 +124,9 @@ a {
 #pys {
     background-image: url("../images/psy.JPG");
 }
+#burger{
+    background-image: url("../images/burgers.JPG");
+}
 
 .linkbox {
     position: relative;
