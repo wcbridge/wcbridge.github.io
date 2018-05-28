@@ -111,7 +111,13 @@ a {
     margin-top: 70%;
 }
 
+#nps{
+    background-image: url("../images/nps connect.JPG");
+}
 
+#quiz {
+    background-image: url("../images/holyGrail.JPG");
+}
 
 .linkbox {
     position: relative;
