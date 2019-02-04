@@ -1,7 +1,13 @@
 body {
     background: black;
     color: white;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    color: antiquewhite
 }
 
 header {
@@ -30,7 +36,8 @@ header {
     display: flex;
     margin: 3% 5%;
     justify-content: center;
-    align-content: center
+    align-content: center;
+
 }
 
 .box-2 {
@@ -57,12 +64,13 @@ header {
 }
 
 .bioContainer {
-    font-size: 120%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    flex-wrap:wrap
+    flex-wrap:wrap;
+    margin: 0% 25%;
+    font-size: 120%;
 }
 
 
