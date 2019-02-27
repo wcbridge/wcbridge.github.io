@@ -64,6 +64,7 @@ header {
 }
 
 .bioContainer {
+    line-height: 130%;
     display: flex;
     flex-direction: column;
     align-items: center;
