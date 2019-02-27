@@ -25,11 +25,18 @@ header {
     
 }
 
+.linkbox {
+    display: flex;
+    align-content: center;
+    width: 10%;
+    height: 10%;
+    margin: 1%
+}
+
 .container-2 {
     background: black;
     display: flex;
     justify-content: center;
-    align-content: center
 }
 
 .box-1 {
